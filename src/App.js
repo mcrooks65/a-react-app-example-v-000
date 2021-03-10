@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-// import moment from 'moment';
+import moment from 'moment';
 import ExampleComponent from './ExampleComponent'
 // eslint-disable-next-line
 import TestComponent from './TestComponent'
